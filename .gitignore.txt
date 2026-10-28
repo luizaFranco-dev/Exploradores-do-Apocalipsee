@@ -1,0 +1,3 @@
+# Arquivos de build e cache da Godot
+.godot/
+*.uid
